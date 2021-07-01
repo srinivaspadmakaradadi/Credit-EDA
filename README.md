@@ -18,12 +18,10 @@ Two types of risks are associated with the bank’s decision:
 2. If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
 
 ## Exploratory Data Analysis(EDA) Approach:
-Data Understanding
-Data Cleaning
-Data Blending
-Data Visualization 
-   1. Univariate Analysis
-   2. Multivariate Analysis
-
-
-Insights Conclusion
+    Data Understanding
+    Data Cleaning
+    Data Blending
+    Data Visualization 
+       1. Univariate Analysis
+       2. Multivariate Analysis
+    Insights Conclusion
