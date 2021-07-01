@@ -1,6 +1,8 @@
 # Credit-EDA
 
 ## Partners:
+# https://github.com/GayathriMNV
+
 
 
 ## Introduction:
