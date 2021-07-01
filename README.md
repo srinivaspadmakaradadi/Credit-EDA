@@ -1,8 +1,8 @@
 # Credit-EDA
 
 ## Partners:
-# https://github.com/GayathriMNV
-
+### Gayatri -  https://github.com/GayathriMNV
+### Padmakara Srinivas - https://github.com/dadipadmakarasrinivas
 
 
 ## Introduction:
